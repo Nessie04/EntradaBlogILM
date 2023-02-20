@@ -5,6 +5,7 @@
 */
 public class EntradaBlogILM {
 
+        /*separador es el ccarácter que separa ENTRADA DE del nombre del autor*/
         public static char separador = ':';
         private int id;
         private String texto;
